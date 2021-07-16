@@ -1,0 +1,19 @@
+h1{
+    color:#d77092;
+    background-color:#faebd7;
+}
+body{
+    background-color: #f4f4f4
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: 40px;
+}
+.grid img{
+    width: 20%;
+}
+.description{
+    font-family: 'Dancing Script', cursive;
+}
